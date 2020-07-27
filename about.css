@@ -1,0 +1,25 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #272829;
+    background-color: #020202;
+  }  
+  h1{
+    color: rgb(110, 173, 173);
+  } 
+  .p1{
+    font-size: 28px;
+    color: #a1dfe7;
+  }
+  h3{
+    font-weight: 700;
+    font-size: 30px;
+    color: #a1dfe7;
+  }
+p{
+  font-size: 24px;
+    color: #7d919b;
+}
+
+  
+  
+
